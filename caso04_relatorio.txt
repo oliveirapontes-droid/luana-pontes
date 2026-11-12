@@ -1,0 +1,7 @@
+# Parágrafo comparativo (Entregável):
+
+A abordagem com exec_command abre um novo canal independente para cada comando executado, descartando qualquer alteração de contexto (como mudança de diretório ou variáveis de ambiente) assim que o comando termina; por isso, é ideal apenas para consultas pontuais em servidores. Já o invoke_shell estabelece uma sessão interativa contínua, simulando um terminal humano onde o estado persiste entre um comando e outro. Essa persistência é indispensável em equipamentos de rede (roteadores e switches), nos quais comandos de configuração dependem diretamente do modo ou contexto ativado anteriormente.
+
+# Resposta da Pergunta de Reflexão:
+
+Em um equipamento de rede real (como roteadores e switches com sintaxe estilo Cisco), a sequência típica enviada seria: terminal length 0 (para desativar a paginação da saída e evitar interrupções com --More--), enable (para entrar no modo privilegiado), configure terminal (para acessar o modo de configuração global) e end (para sair do modo de configuração ao finalizar).
