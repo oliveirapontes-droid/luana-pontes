@@ -1,0 +1,105 @@
+2026-11-12 20:18:49,892 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:50,019 INFO Authentication (password) successful!
+2026-11-12 20:18:50,610 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:50,618 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:50,623 INFO R1: backup OK em backups/R1/2026-11-12_201849.cfg (removidos: 0)
+2026-11-12 20:18:50,633 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:50,740 INFO Authentication (password) successful!
+2026-11-12 20:18:50,997 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:51,023 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:51,027 INFO R2: backup OK em backups/R2/2026-11-12_201850.cfg (removidos: 0)
+2026-11-12 20:18:51,039 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:51,159 INFO Authentication (password) successful!
+2026-11-12 20:18:51,406 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:51,416 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:51,421 INFO R3: backup OK em backups/R3/2026-11-12_201851.cfg (removidos: 0)
+2026-11-12 20:18:54,319 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:54,444 INFO Authentication (password) successful!
+2026-11-12 20:18:54,533 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:54,544 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:54,549 INFO R1: backup OK em backups/R1/2026-11-12_201854.cfg (removidos: 0)
+2026-11-12 20:18:54,562 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:54,721 INFO Authentication (password) successful!
+2026-11-12 20:18:54,806 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:54,817 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:54,822 INFO R2: backup OK em backups/R2/2026-11-12_201854.cfg (removidos: 0)
+2026-11-12 20:18:54,833 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:54,950 INFO Authentication (password) successful!
+2026-11-12 20:18:55,032 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:55,041 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:55,044 INFO R3: backup OK em backups/R3/2026-11-12_201854.cfg (removidos: 0)
+2026-11-12 20:18:57,866 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:58,060 INFO Authentication (password) successful!
+2026-11-12 20:18:58,152 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:58,163 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:58,168 INFO R1: backup OK em backups/R1/2026-11-12_201857.cfg (removidos: 0)
+2026-11-12 20:18:58,179 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:58,288 INFO Authentication (password) successful!
+2026-11-12 20:18:58,368 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:58,379 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:58,384 INFO R2: backup OK em backups/R2/2026-11-12_201858.cfg (removidos: 0)
+2026-11-12 20:18:58,396 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:18:58,510 INFO Authentication (password) successful!
+2026-11-12 20:18:58,586 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:18:58,597 INFO [chan 0] sftp session closed.
+2026-11-12 20:18:58,602 INFO R3: backup OK em backups/R3/2026-11-12_201858.cfg (removidos: 0)
+2026-11-12 20:19:01,418 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:01,544 INFO Authentication (password) successful!
+2026-11-12 20:19:01,615 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:01,625 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:01,630 INFO R1: backup OK em backups/R1/2026-11-12_201901.cfg (removidos: 0)
+2026-11-12 20:19:01,644 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:01,752 INFO Authentication (password) successful!
+2026-11-12 20:19:01,824 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:01,834 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:01,838 INFO R2: backup OK em backups/R2/2026-11-12_201901.cfg (removidos: 0)
+2026-11-12 20:19:01,849 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:01,962 INFO Authentication (password) successful!
+2026-11-12 20:19:02,036 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:02,046 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:02,050 INFO R3: backup OK em backups/R3/2026-11-12_201901.cfg (removidos: 0)
+2026-11-12 20:19:04,858 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:04,983 INFO Authentication (password) successful!
+2026-11-12 20:19:05,069 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:05,090 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:05,095 INFO R1: backup OK em backups/R1/2026-11-12_201904.cfg (removidos: 0)
+2026-11-12 20:19:05,105 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:05,212 INFO Authentication (password) successful!
+2026-11-12 20:19:05,296 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:05,307 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:05,312 INFO R2: backup OK em backups/R2/2026-11-12_201905.cfg (removidos: 0)
+2026-11-12 20:19:05,323 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:05,439 INFO Authentication (password) successful!
+2026-11-12 20:19:05,510 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:05,519 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:05,524 INFO R3: backup OK em backups/R3/2026-11-12_201905.cfg (removidos: 0)
+2026-11-12 20:19:08,385 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:08,507 INFO Authentication (password) successful!
+2026-11-12 20:19:08,589 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:08,599 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:08,607 INFO R1: backup OK em backups/R1/2026-11-12_201908.cfg (removidos: 1)
+2026-11-12 20:19:08,618 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:08,777 INFO Authentication (password) successful!
+2026-11-12 20:19:08,846 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:08,856 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:08,864 INFO R2: backup OK em backups/R2/2026-11-12_201908.cfg (removidos: 1)
+2026-11-12 20:19:08,875 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:08,991 INFO Authentication (password) successful!
+2026-11-12 20:19:09,062 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:09,071 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:09,078 INFO R3: backup OK em backups/R3/2026-11-12_201908.cfg (removidos: 1)
+2026-11-12 20:19:11,926 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:12,052 INFO Authentication (password) successful!
+2026-11-12 20:19:12,132 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:12,141 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:12,149 INFO R1: backup OK em backups/R1/2026-11-12_201911.cfg (removidos: 1)
+2026-11-12 20:19:12,163 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:12,273 INFO Authentication (password) successful!
+2026-11-12 20:19:12,347 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:12,356 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:12,363 INFO R2: backup OK em backups/R2/2026-11-12_201912.cfg (removidos: 1)
+2026-11-12 20:19:12,374 INFO Connected (version 2.0, client OpenSSH_10.2p1)
+2026-11-12 20:19:12,487 INFO Authentication (password) successful!
+2026-11-12 20:19:12,575 INFO [chan 0] Opened sftp connection (server version 3)
+2026-11-12 20:19:12,585 INFO [chan 0] sftp session closed.
+2026-11-12 20:19:12,592 INFO R3: backup OK em backups/R3/2026-11-12_201912.cfg (removidos: 1)

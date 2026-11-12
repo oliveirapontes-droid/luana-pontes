@@ -1,0 +1,4 @@
+host,status,whoami,hostname,uname,uptime,erro
+127.0.0.1,SUCESSO,r1,par391881b,6.18.33.2-microsoft-standard-WSL2,"up 1 hour, 39 minutes",
+127.0.0.1,SUCESSO,r2,par391881b,6.18.33.2-microsoft-standard-WSL2,"up 1 hour, 39 minutes",
+127.0.0.1,SUCESSO,r3,par391881b,6.18.33.2-microsoft-standard-WSL2,"up 1 hour, 39 minutes",

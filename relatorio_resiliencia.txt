@@ -1,0 +1,12 @@
+====================================================================================
+RELATORIO DE AUTOMACAO RESILIENTE A FALHAS
+====================================================================================
+[R1-SAUDAVEL] (127.0.0.1:22) -> OK (tentativas: 1)
+  Causa provavel: Conectado com sucesso (hostname: par391881b)
+[R2-SENHA-ERRADA] (127.0.0.1:22) -> ERRO_AUTENTICACAO (tentativas: 1)
+  Causa provavel: Credenciais invalidas ou senha expirada (retry abortado por seguranca).
+[R3-PORTA-FECHADA] (127.0.0.1:2299) -> CONEXAO_RECUSADA (tentativas: 1)
+  Causa provavel: Servico SSH parado na porta destino ou bloqueio ativo (REJECT) no firewall.
+[R4-INEXISTENTE] (10.255.255.1:22) -> TIMEOUT (tentativas: 3)
+  Causa provavel: Host inexistente/desligado, falha de roteamento ou firewall descartando pacotes.
+====================================================================================

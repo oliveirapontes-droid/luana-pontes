@@ -1,0 +1,15 @@
++-----------------------+       SSH (Porta 22)       +-----------------------+
+|  Estacao do Gerente   | -------------------------> |     Bastion Host      |
+|  (caso10_bastion.py)  |  usuario: bastion          |   (Servidor de Salto) |
++-----------------------+                            +-----------------------+
+            |                                                    |
+            |         Tunel SSH (direct-tcpip)                   |
+            + - - - - - - - - - - - - - - - - - - - - - - - - - -+
+                                                                 |
+                                                       TCP (Porta 2222)
+                                                       usuario: r1
+                                                                 v
+                                                     +-----------------------+
+                                                     |  Equipamento Interno  |
+                                                     |  R1 (127.0.0.1:2222)  |
+                                                     +-----------------------+
